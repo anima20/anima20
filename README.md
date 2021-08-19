@@ -21,4 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anima20&show_icons=true&locale=en&layout=compact" alt="anima20" /></p>
 
 
-<a><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anima20&show_icons=true&locale=en" alt="anima20" /></p></a>
+<a><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anima20&show_icons=true&locale=en" margin-top="50" alt="anima20" /></p></a>
